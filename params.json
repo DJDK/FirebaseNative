@@ -1,6 +1,6 @@
 {
   "name": "Firebasenative",
   "tagline": "",
-  "body": "### Welcome to FirebaseNative\r\nFirebaseNative is a Unity plugin for extending the power of Google’s new Firebase toolset for your unity game. It provides unified cross-platform API for easy handling Firebase Notification and Firebase Analytics. It currently supports Android and iOS\r\n\r\n### Features\r\n* Obtain Firebase Cloud Messaging (FCM) Token.\r\n* Auto renew FCM token.\r\n* Full Firebase Analytics support.\r\n\r\n### Documentation and Support\r\nDocumentation - \r\nSupport forum - ",
+  "body": "### Welcome to FirebaseNative\r\nFirebaseNative is a Unity plugin for extending the power of Google’s new Firebase toolset for your unity game. It provides unified cross-platform API for easy handling Firebase Notification and Firebase Analytics. It currently supports Android and iOS\r\n\r\n### Features\r\n* Obtain Firebase Cloud Messaging (FCM) Token.\r\n* Auto renew FCM token.\r\n* Full Firebase Analytics support.\r\n\r\n### Documentation and Support\r\n* [Documentation](https://djdk.github.io/FirebaseNative/FirebaseNativeManual.pdf)\r\n* Support forum",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
